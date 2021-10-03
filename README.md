@@ -252,3 +252,5 @@ anim:move{
 - Technically, the library doesn't depend on LÖVE and can be used in other contexts with some creativity. You just have to ensure `anim:update(dt)` gets called with suitable `dt` values.
 
 - This library uses 'clamp' from [rxi/lume](https://github.com/rxi/lume).
+
+- For a somewhat complex application using this, check out: [nishnat-rishi/whatever](https://github.com/nishnat-rishi/whatever).
